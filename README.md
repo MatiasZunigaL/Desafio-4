@@ -1,6 +1,6 @@
 # Implementacion red neuronal 
 
-Red neuronal capaz de aprender a distinguir imagenes de ropa, para posteriormente clasificar el tipo de ropa que es. 
+Red neuronal capaz de aprender a distinguir imagenes de ropa, para posteriormente clasificar a que tipo de vestimenta pertenece.
 
 ## Compilación y ejecución
 
