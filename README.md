@@ -8,7 +8,7 @@ Para compilar el codigo debe ejecutar el siguiente comando de linea:
 ```bash
 $ python main.py 
 ```
-Es importante señalar que se utilizo *Python 3.8*
+Es importante señalar que se utilizo **Python 3.8**
 
 El video explicativo se puede ver en este [link]()
 
