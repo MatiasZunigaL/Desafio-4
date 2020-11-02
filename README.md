@@ -1,4 +1,4 @@
-# Implementacion de una red neuronal capaz de clasificar ropa
+# Implementacion de una red neuronal 
 
 Red neuronal capaz de aprender a distinguir imagenes de ropa, para posteriormente clasificar el tipo de ropa que es. 
 
