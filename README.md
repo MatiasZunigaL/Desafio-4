@@ -10,11 +10,10 @@ $ python main.py
 ```
 Es importante señalar que se utilizo **Python 3.8**
 
-El video explicativo se puede ver en este [link]()
+El video explicativo se puede ver en este [link](https://drive.google.com/file/d/1T7mv60Nwle2kGZoyzzeASDBFKBbQKHCG/view?usp=sharing)
 
 La coevaluacion [aqui](Coevaluacion.md)
 
-El documento de la descripcion del algoritmo [aqui]()
 
 ## Bibliografia
 
